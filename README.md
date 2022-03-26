@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am in my to become a hydrogeologist, currently doing a mater in Groundwater and Global Change, passionate about data analyses and groundwater modelling. I have a geological engeneering background, therefore, field work and data colletion is also a part of me. 
+I am on my way to become a hydrogeologist, currently doing a mater in Groundwater and Global Change, passionate about data analyses and groundwater modelling. I have a geological engeneering background, therefore, field work and data colletion is also a part of me. 
 
 Python is the coding language that I have used the most so far, but I can read and work on Java script, Matlab, R and trying to incorporate Julia. 
 I started to upload my codes not so long ago but I have around 5 years of experience coding for geosciences applications. 
