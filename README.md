@@ -3,14 +3,17 @@
 <!--
 **mgomezo12/mgomezo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am in my to become a hydrogeologist, currently doing a mater in Groundwater and Global Change, passionate about data analyses and groundwater modelling. I have a geological engeneering background, therefore, field work and data colletion is also a part of me. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python is the coding language that I have used the most so far, but I can read and work on Java script, Matlab, R and trying to incorporate Julia. 
+I started to upload my codes not so long ago but I have around 5 years of experience coding for geosciences applications. 
+
+
+
+- 🔭 I’m currently working on machine learning applications to forecast groundwater levels.
+- 🌱 I’m currently learning FloPy, Tensorflow and advanced geopandas.
+- 💬 My main interest: integrate data science and hydrogeology. Working towards making groundwater visible!.
+- 😄 Let me help you in case you need it.
+- ⚡ I believe open source is a key to development. Inclusion is essential.
+- 📫 Send me a message here if you have any questions or to mgomezo1212@gmail.com!
+
