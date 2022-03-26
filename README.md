@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**mgomezo12/mgomezo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am in my to become a hydrogeologist, currently doing a mater in Groundwater and Global Change, passionate about data analyses and groundwater modelling. I have a geological engeneering background, therefore, field work and data colletion is also a part of me. 
 
 Python is the coding language that I have used the most so far, but I can read and work on Java script, Matlab, R and trying to incorporate Julia. 
